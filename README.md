@@ -1,5 +1,7 @@
 # pr-ctica-21sep
 
+Mi dirección de GitHub es: https://github.com/claudiaalozano/pr-ctica-21sep.git
+
 Para elaborar esta práctica hemos elaborado dos clases, una llamada Punto donde nos muestra un punto por pantalla y en que eje se encuentra, y otra llamada rectágulo donde calcula la base, la altura y el área a partir de los puntos obtenidos con la clase punto. 
 
 Código empleado en Punto: 
